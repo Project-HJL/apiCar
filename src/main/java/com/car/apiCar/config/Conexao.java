@@ -38,8 +38,8 @@ public class Conexao {
     }
 
     public static class Credenciais {
-        public static final String user = "rm555446";//Colocar rm do usuario
-        public static final String pwd = "160805";//Inserir senha do usuario
+        public static final String user = "";//Colocar rm do usuario
+        public static final String pwd = "";//Inserir senha do usuario
     }
 
 }
